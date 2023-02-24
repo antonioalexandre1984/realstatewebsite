@@ -1,0 +1,10 @@
+
+1 - npm create vite@latest realstate -- --template react-ts
+2 - npm i
+3 - npm i tailwindcss -D
+4 - npm i postcss
+5 - npm i autoprefixer
+6 - yarn tailwind init
+7 - yarn add react-router-dom
+8 - yarn add react-icons
+9 - npm i @headlessui/react
